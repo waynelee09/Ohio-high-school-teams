@@ -2,7 +2,7 @@
   {
     "city": "Newton Falls",
     "mascot": "Hawks ",
-    "short": "",
+    "short": "NEW",
     "homeText": "FFFFFF",
     "homeMain": "002244",
     "homeSecondary": "69BE28",
@@ -13,13 +13,13 @@
   {
     "city": "Memorial ",
     "mascot": "Red Devils ",
-    "short": "",
-    "homeText": "FFD100",
-    "homeMain": "003594",
-    "homeSecondary": "FFD100",
-    "awayText": "003594",
+    "short": "MEM",
+    "homeText": "FFFFFF",
+    "homeMain": "97233F",
+    "homeSecondary": "000000",
+    "awayText": "97233F",
     "awayMain": "FFFFFF",
-    "awaySecondary": "FFD100"
+    "awaySecondary": "000000"
   },
   {
     "city": "Liberty",
@@ -48,17 +48,17 @@
     "mascot": "Knights ",
     "short": "LAB",
     "homeText": "FFFFFF",
-    "homeMain": "0B162A",
-    "homeSecondary": "C83803",
-    "awayText": "0B162A",
+    "homeMain": "370000",
+    "homeSecondary": "FFB612",
+    "awayText": "000000",
     "awayMain": "FFFFFF",
-    "awaySecondary": "C83803"
+    "awaySecondary": "FFB612"
   },
   {
     "city": "Crestview",
     "mascot": "Rebels ",
     "short": "CRE",
-    "homeText": "B0B7BC",
+    "homeText": "000000",
     "homeMain": "0076B6",
     "homeSecondary": "B0B7BC",
     "awayText": "0076B6",
@@ -70,17 +70,6 @@
     "mascot": "Golden Flashes",
     "short": "CHA",
     "homeText": "FFFFFF",
-    "homeMain": "203731",
-    "homeSecondary": "FFB612",
-    "awayText": "203731",
-    "awayMain": "FFFFFF",
-    "awaySecondary": "FFB612"
-  },
-  {
-    "city": "Brookfield ",
-    "mascot": "Warriors ",
-    "short": "BRO",
-    "homeText": "FFFFFF",
     "homeMain": "4F2683",
     "homeSecondary": "FFC62F",
     "awayText": "4F2683",
@@ -88,9 +77,31 @@
     "awaySecondary": "FFC62F"
   },
   {
+    "city": "Brookfield ",
+    "mascot": "Warriors ",
+    "short": "BRO",
+    "homeText": "FFFFFF",
+    "homeMain": "0B162A",
+    "homeSecondary": "C83803",
+    "awayText": "4F2683",
+    "awayMain": "FFFFFF",
+    "awaySecondary": "C83803"
+  },
+  {
     "city": "Waterloo ",
     "mascot": "Vikings ",
     "short": "WAT",
+    "homeText": "FFFFFF",
+    "homeMain": "710505",
+    "homeSecondary": "34302B",
+    "awayText": "6F0404",
+    "awayMain": "FFFFFF",
+    "awaySecondary": "FF7900"
+  },
+  {
+    "city": "Mineral Ridge",
+    "mascot": "Rams",
+    "short": "MIN",
     "homeText": "FFFFFF",
     "homeMain": "000000",
     "homeSecondary": "A71930",
@@ -99,24 +110,13 @@
     "awaySecondary": "A71930"
   },
   {
-    "city": "Mineral Ridge",
-    "mascot": "Rams",
-    "short": "MIN",
-    "homeText": "FFFFFF",
-    "homeMain": "000000",
-    "homeSecondary": "0085CA",
-    "awayText": "000000",
-    "awayMain": "FFFFFF",
-    "awaySecondary": "0085CA"
-  },
-  {
     "city": "McKinley",
     "mascot": "Trojans",
     "short": "MCK",
     "homeText": "D3BC8D",
-    "homeMain": "101820",
+    "homeMain": "9000C1",
     "homeSecondary": "D3BC8D",
-    "awayText": "101820",
+    "awayText": "9100C1",
     "awayMain": "FFFFFF",
     "awaySecondary": "D3BC8D"
   },
@@ -125,49 +125,16 @@
     "mascot": "Rockets",
     "short": "LOW",
     "homeText": "FFFFFF",
-    "homeMain": "D50A0A",
-    "homeSecondary": "34302B",
-    "awayText": "D50A0A",
+    "homeMain": "FFD100",
+    "homeSecondary": "0085CA",
+    "awayText": "FFFFFF",
     "awayMain": "FFFFFF",
-    "awaySecondary": "FF7900"
+    "awaySecondary": "0085CA"
   },
   {
     "city": "Western Reserve",
     "mascot": "Raptors",
     "short": "WES",
-    "homeText": "FFFFFF",
-    "homeMain": "041E42",
-    "homeSecondary": "869397",
-    "awayText": "869397",
-    "awayMain": "FFFFFF",
-    "awaySecondary": "041E42"
-  },
-  {
-    "city": "Springfield ",
-    "mascot": "Tigers",
-    "short": "SPR",
-    "homeText": "FFFFFF",
-    "homeMain": "0B2265",
-    "homeSecondary": "A71930",
-    "awayText": "0B2265",
-    "awayMain": "FFFFFF",
-    "awaySecondary": "A71930"
-  },
-  {
-    "city": "McDonald",
-    "mascot": "Blue Devils",
-    "short": "MCD",
-    "homeText": "FFFFFF",
-    "homeMain": "004C54",
-    "homeSecondary": "000000",
-    "awayText": "004C54",
-    "awayMain": "FFFFFF",
-    "awaySecondary": "000000"
-  },
-  {
-    "city": "Jackson-Milton ",
-    "mascot": "Bluejays ",
-    "short": "JAC",
     "homeText": "FFFFFF",
     "homeMain": "773141",
     "homeSecondary": "FFB612",
@@ -176,31 +143,53 @@
     "awaySecondary": "FFB612"
   },
   {
+    "city": "Springfield ",
+    "mascot": "Tigers",
+    "short": "SPR",
+    "homeText": "000000",
+    "homeMain": "FFA200",
+    "homeSecondary": "000000",
+    "awayText": "000000",
+    "awayMain": "FFFFFF",
+    "awaySecondary": "FF9F00"
+  },
+  {
+    "city": "McDonald",
+    "mascot": "Blue Devils",
+    "short": "MCD",
+    "homeText": "FFFFFF",
+    "homeMain": "0B2265",
+    "homeSecondary": "A71930",
+    "awayText": "0B2265",
+    "awayMain": "FFFFFF",
+    "awaySecondary": "A71930"
+  },
+  {
+    "city": "Jackson-Milton ",
+    "mascot": "Bluejays ",
+    "short": "JAC",
+    "homeText": "FFFFFF",
+    "homeMain": "000F87",
+    "homeSecondary": "000000",
+    "awayText": "000000",
+    "awayMain": "FFFFFF",
+    "awaySecondary": "000F88"
+  },
+  {
     "city": "Struthers ",
     "mascot": "Wildcats ",
     "short": "STR",
-    "homeText": "FFFFFF",
-    "homeMain": "002244",
-    "homeSecondary": "FB4F14",
-    "awayText": "002244",
+    "homeText": "000000",
+    "homeMain": "C30000",
+    "homeSecondary": "000000",
+    "awayText": "C30000",
     "awayMain": "FFFFFF",
-    "awaySecondary": "FB4F14"
+    "awaySecondary": "A5ACAF"
   },
   {
     "city": "Lakeview ",
     "mascot": "Bulldogs ",
     "short": "LAK",
-    "homeText": "FFFFFF",
-    "homeMain": "E31837",
-    "homeSecondary": "FFB81C",
-    "awayText": "E31837",
-    "awayMain": "FFFFFF",
-    "awaySecondary": "FFB81C"
-  },
-  {
-    "city": "Hubbard",
-    "mascot": "Eagles",
-    "short": "HUB",
     "homeText": "FFFFFF",
     "homeMain": "0080C6",
     "homeSecondary": "FFC20E",
@@ -209,59 +198,70 @@
     "awaySecondary": "FFC20E"
   },
   {
+    "city": "Hubbard",
+    "mascot": "Eagles",
+    "short": "HUB",
+    "homeText": "FFFFFF",
+    "homeMain": "002DBF",
+    "homeSecondary": "000000",
+    "awayText": "000000",
+    "awayMain": "FFFFFF",
+    "awaySecondary": "000000"
+  },
+  {
     "city": "Girard ",
     "mascot": "Indians",
     "short": "GIR",
-    "homeText": "A5ACAF",
+    "homeText": "FFFFFF",
     "homeMain": "000000",
-    "homeSecondary": "A5ACAF",
-    "awayText": "A5ACAF",
+    "homeSecondary": "D80000",
+    "awayText": "D90000",
     "awayMain": "FFFFFF",
-    "awaySecondary": "A5ACAF"
+    "awaySecondary": "000000"
   },
   {
     "city": "Ursuline ",
     "mascot": "Fighting Irish",
     "short": "URS",
     "homeText": "FFFFFF",
-    "homeMain": "000000",
-    "homeSecondary": "241773",
-    "awayText": "241773",
+    "homeMain": "2EB600",
+    "homeSecondary": "FFD300",
+    "awayText": "FFD300",
     "awayMain": "FFFFFF",
-    "awaySecondary": "9E7C0C"
+    "awaySecondary": "2EB500"
   },
   {
     "city": "Mooney ",
     "mascot": "Cardinals ",
     "short": "MOO",
     "homeText": "FFFFFF",
-    "homeMain": "000000",
-    "homeSecondary": "FB4F14",
-    "awayText": "000000",
+    "homeMain": "810000",
+    "homeSecondary": "FF9600",
+    "awayText": "820000",
     "awayMain": "FFFFFF",
-    "awaySecondary": "FB4F14"
+    "awaySecondary": "FF9600"
   },
   {
     "city": "East",
     "mascot": "Bears",
     "short": "EAS",
-    "homeText": "FFFFFF",
-    "homeMain": "311D00",
-    "homeSecondary": "FF3C00",
-    "awayText": "311D00",
+    "homeText": "000000",
+    "homeMain": "003BE6",
+    "homeSecondary": "D3A80A",
+    "awayText": "003BE5",
     "awayMain": "FFFFFF",
-    "awaySecondary": "FF3C00"
+    "awaySecondary": "000000"
   },
   {
     "city": "Chaney ",
     "mascot": "Cowboys ",
     "short": "CHA",
-    "homeText": "FFFFFF",
-    "homeMain": "101820",
-    "homeSecondary": "FFB612",
-    "awayText": "101820",
+    "homeText": "858585",
+    "homeMain": "E0000",
+    "homeSecondary": "858585",
+    "awayText": "000000",
     "awayMain": "FFFFFF",
-    "awaySecondary": "FFB612"
+    "awaySecondary": "E0000"
   },
   {
     "city": "South Range",
@@ -279,19 +279,19 @@
     "mascot": "Nights",
     "short": "POL",
     "homeText": "FFFFFF",
-    "homeMain": "002C5F",
+    "homeMain": "FFDD00",
     "homeSecondary": "FFFFFF",
-    "awayText": "002C5F",
+    "awayText": "000000",
     "awayMain": "FFFFFF",
-    "awaySecondary": "002C5F"
+    "awaySecondary": "FFDD00"
   },
   {
     "city": "Niles ",
     "mascot": "Red dragons",
     "short": "NIL",
-    "homeText": "FFFFFF",
-    "homeMain": "101820",
-    "homeSecondary": "D7A22A",
+    "homeText": "000000",
+    "homeMain": "D40000",
+    "homeSecondary": "004AD6",
     "awayText": "000000",
     "awayMain": "FFFFFF",
     "awaySecondary": "006778"
@@ -299,7 +299,7 @@
   {
     "city": "Jefferson Area",
     "mascot": "Ironman",
-    "short": "Jef ",
+    "short": "Jef",
     "homeText": "FFFFFF",
     "homeMain": "0C2340",
     "homeSecondary": "4B92DB",
@@ -311,44 +311,44 @@
     "city": "Howland ",
     "mascot": "Tigers",
     "short": "HOW",
-    "homeText": "FFFFFF",
-    "homeMain": "00338D",
-    "homeSecondary": "C60C30",
-    "awayText": "00338D",
+    "homeText": "000000",
+    "homeMain": "D46600",
+    "homeSecondary": "FFFFFF",
+    "awayText": "D46600",
     "awayMain": "FFFFFF",
-    "awaySecondary": "C60C30"
+    "awaySecondary": "000000"
   },
   {
     "city": "Canfield ",
     "mascot": "Cardinals",
     "short": "CAN",
     "homeText": "FFFFFF",
-    "homeMain": "008E97",
-    "homeSecondary": "FC4C02",
-    "awayText": "008E97",
+    "homeMain": "DA0000",
+    "homeSecondary": "FFFFFF",
+    "awayText": "DA0000",
     "awayMain": "FFFFFF",
-    "awaySecondary": "FC4C02"
+    "awaySecondary": "737373"
   },
   {
     "city": "Boardman ",
     "mascot": "Spartans",
     "short": "BOA",
     "homeText": "FFFFFF",
-    "homeMain": "002244",
-    "homeSecondary": "C60C30",
-    "awayText": "002244",
+    "homeMain": "670000",
+    "homeSecondary": "000000",
+    "awayText": "000000",
     "awayMain": "FFFFFF",
-    "awaySecondary": "C60C30"
+    "awaySecondary": "670000"
   },
   {
     "city": "Austintown-Fitch ",
     "mascot": "Falcons ",
     "short": "AUS",
     "homeText": "FFFFFF",
-    "homeMain": "125740",
-    "homeSecondary": "FFFFFF",
-    "awayText": "125740",
+    "homeMain": "00338D",
+    "homeSecondary": "C60C30",
+    "awayText": "00338D",
     "awayMain": "FFFFFF",
-    "awaySecondary": "125740"
+    "awaySecondary": "C60C30"
   }
 ]
