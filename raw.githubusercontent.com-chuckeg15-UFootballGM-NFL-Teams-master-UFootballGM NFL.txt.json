@@ -257,11 +257,11 @@
     "mascot": "Cowboys ",
     "short": "CHA",
     "homeText": "858585",
-    "homeMain": "E0000",
+    "homeMain": "E00000",
     "homeSecondary": "858585",
     "awayText": "000000",
     "awayMain": "FFFFFF",
-    "awaySecondary": "E0000"
+    "awaySecondary": "E00000"
   },
   {
     "city": "South Range",
